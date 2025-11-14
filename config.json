@@ -1,0 +1,12 @@
+{
+	"auth" : {
+		"server" : "https://webuntis.com",
+		"school" : "School",
+		"username" : "username",
+		"password" : "password"
+	},
+	"settings" : {
+		"template" : "Next lesson:\n{subject} @ {start} - {end}\nRoom: {room}",
+		"interval" : 1200
+	}
+}
