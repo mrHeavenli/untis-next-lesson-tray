@@ -3,6 +3,8 @@
 System tray app that shows your next Untis lesson.
 Written in python 🐢
 
+![](https://raw.githubusercontent.com/mrHeavenli/untis-next-lesson-tray/refs/heads/main/screenshot.png)
+
 ## Dependencies 
 
 Webuntis, PIL and pystray:
